@@ -3,7 +3,7 @@ Enhance and Make CMS Editor easy to use - Magento2
 
 Installation 
 - Create folder app/code/Betagento/Editor 
-- Download this source-code from Githup and upload it to such folder. 
+- Download the source-code from Github and upload it to the folder created. 
 - Done, Enjoy 
 
 Version 1 : 
